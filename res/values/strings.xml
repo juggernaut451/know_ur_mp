@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">know your representative</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="Ashutosh"><a href="http://ashutoshksingh.com">Ashutosh Kumar Singh</a></string>
+	<string name="Aniket"><a href="http://http://aniketmaithani.net/">Aniket Maithani</a></string>
+	<string name="SURENDRAN"><a href="http://surendran.info">MR. SURENDRAN BALANCHANDRAN</a></string>
+	<string name="SATYAKAAM"><a href="http://http://satyaakam.net/">MR. SATYAKAAM GOSWAMI</a></string>
+		
+    
+</resources>
